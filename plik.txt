@@ -1,1 +1,5 @@
 Inna wersja tego pliku nadpisze poprzednia.
+
+
+
+dodanie nowej, eksperymentalnej funkcji.
